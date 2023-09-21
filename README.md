@@ -95,6 +95,7 @@ This project exists thanks to all the people who contribute, to participate in t
 <a href="https://github.com/ahmed3mar" target="_blank"><img src="https://avatars.githubusercontent.com/u/12982325?v=4" width="48" height="48"></a>
 <a href="https://github.com/flc1125" target="_blank"><img src="https://avatars.githubusercontent.com/u/14297703?v=4" width="48" height="48"></a>
 <a href="https://github.com/zzpwestlife" target="_blank"><img src="https://avatars.githubusercontent.com/u/12382180?v=4" width="48" height="48"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fgoravel%2Fgoravel?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgoravel%2Fgoravel.svg?type=shield"/></a>
 
 ## Group
 
@@ -107,3 +108,6 @@ Welcome more discussion in Telegram.
 ## License
 
 The Goravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgoravel%2Fgoravel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgoravel%2Fgoravel?ref=badge_large)
